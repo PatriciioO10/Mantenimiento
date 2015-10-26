@@ -1,0 +1,18 @@
+1.- Revisafr la documentacion
+
+2.- pruebas (3) 
+	
+	-objetivo
+
+	-desarrollo
+
+	-resumen
+
+	-resultados
+
+
+
+*propuesta cliente (software que estoy entregando)
+	
+-Proponer que modificar
+	
